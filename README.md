@@ -1,7 +1,12 @@
-[![Header](https://github.com/FurmanovVitaliy/FurmanovVitaliy/blob/main/assets/tenor.gif)]
+<div style="text-align: center;">
 
-## I am a beginner developer with a strong interest in learning modern technologies and improving my programming skills. I have basic experience with various languages and tools, and I actively seek to grow further in the IT field. I enjoy solving problems and working on projects that help me gain experience and create efficient solutions.
+![Header](https://github.com/FurmanovVitaliy/FurmanovVitaliy/blob/main/assets/tenor.gif)
 
+</div>
+
+  ## I am a beginner developer with a strong interest in learning modern technologies and improving my programming skills.I have basic experience with various languages and tools, and I actively seek to grow further in the IT field.I enjoy solving problems and working on projects that help me gain experience and create efficient solutions.
+  
+<div style="text-align: center;">
 
 ### Langueges and Tools
 ![Golang](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=Go&logoColor)
@@ -23,3 +28,4 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/vitaliy.furmanov.7)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FurmanovVitaliy&show_icons=true&theme=omni&hide=contribs)
+<div>
