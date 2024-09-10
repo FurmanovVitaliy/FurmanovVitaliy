@@ -2,8 +2,17 @@
   <img src="https://github.com/FurmanovVitaliy/FurmanovVitaliy/blob/main/assets/tenor.gif" alt="Header">
 </p>
 
-## I am a beginner developer with a strong interest in learning modern technologies and improving my programming skills. I have basic experience with various languages and tools, and I actively seek to grow further in the IT field. I enjoy solving problems and working on projects that help me gain experience and create efficient solutions.
+<h3 align="center">I am a beginner developer with a strong interest in learning modern technologies and improving my programming skills</h3>
 
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a self-hosted cloud-gaming service**
+ 
+ 🌱 I’m currently learning **Docker, AWS, SQL**
+
+ </div>
 <div align="center">
 
 <h3>Languages and Tools</h3>
@@ -19,6 +28,7 @@
 
 <h3>Socials</h3>
 
+[![Gmail](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=gmail&logoColor)](https://mailto:furmanov.vitaliy@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor)](https://t.me/VitaliyFurmanov)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/vitalii-furmanov)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor)](https://www.instagram.com/furmanov.vitaliy)
