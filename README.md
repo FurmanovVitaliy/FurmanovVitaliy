@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **a self-hosted cloud-gaming service**
  
- 🌱 I’m currently learning **Docker, AWS, SQL**
+ 🌱 I’m currently learning **Docker, AWS, SQL, NEXT.js, React**
 
  </div>
 <div align="center">
